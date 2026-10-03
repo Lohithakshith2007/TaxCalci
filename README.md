@@ -2,6 +2,20 @@
 
 TaxCalci is a full-stack web application that combines a rule-based tax calculation engine with an AI-powered advisory system. It allows users to calculate estimated tax liability and receive AI-generated explanations and personalized tax-saving suggestions.
 
+## Demo
+
+### Live Demo: https://taxcalci-ai.onrender.com/
+
+## Screenshots
+![Landing page](./images/Landing.png)
+
+![dashboard page](./images/Dashboard.png)
+
+![core caluculation page](./images/CalculationPage.png)
+
+![chat page](./images/ChatPage.png)
+
+
 ## Features
 
 - User authentication (signup, login, logout)
@@ -117,14 +131,6 @@ To reproduce the coverage report locally:
 
     coverage run manage.py test tax_engine
     coverage report
-
-## Live Demo
-
-[TaxCalci](https://taxcalci-ai.onrender.com/)
-
-## Repository
-
-[GitHub Repository](https://github.com/Lohithakshith2007/TaxCalci)
 
 ## Deployment
 
